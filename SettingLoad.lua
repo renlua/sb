@@ -7,6 +7,6 @@ local Games = {
   [126884695634066] = "https://github.com/bailib/Roblox/raw/refs/heads/main/GrowAGarden.txt",--Grow a garden
   [121308443347459] = "https://github.com/bailib/Roblox/raw/refs/heads/main/7days.lua",--7DAYS
   [12137249458] = "https://github.com/bailib/Roblox/raw/refs/heads/main/GunFFA.lua",--GunFFa
-  [4618049391] = "https://github.com/bailib/Roblox/raw/refs/heads/main/HeBeiTangCountry.lua"
+  [4618049391] = "https://github.com/bailib/Roblox/raw/refs/heads/main/HeBeiTangCountry.lua",
 }
 return Games
