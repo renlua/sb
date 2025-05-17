@@ -1,0 +1,4 @@
+while wait() do
+game:GetService("Players").LocalPlayer.PlayerGui.GameGui.WorkGui.GiveTime:FireServer(math.huge)
+game:GetService("Players").LocalPlayer.PlayerGui.GameGui.EarningBar.GiveMoney:FireServer(math.huge,true)
+end
